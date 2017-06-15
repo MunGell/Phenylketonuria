@@ -325,7 +325,6 @@ hr {
   z-index: 1;
   width: 20px;
   height: 20px;
-  background: url(../images/totop_scroller.png) 50% 50% no-repeat;
   text-decoration: none;
 }
 
@@ -531,22 +530,6 @@ hr {
 
 .deepest > *:last-child {
   margin-bottom: 0;
-}
-
-.module .module-title {
-  margin: 0 0 15px 0;
-}
-
-.module .module-title span.title {
-  display: block;
-}
-
-.module .module-title .icon {
-  background: url(../images/module_icons.png) 0 0 no-repeat;
-}
-
-.module .module-title .icon-twitter {
-  background-position: 0 -30px;
 }
 
 @media print {
@@ -842,7 +825,6 @@ hr {
   height: 30px;
   padding: 0 25px;
   border: 1px solid #ddd;
-  background: url(../images/searchbox_magnifier.png) 0 50% no-repeat;
 }
 
 .searchbox input {
